@@ -1,7 +1,3 @@
-# AI_for_Medicine_Specialization_Coursera
-![image](https://github.com/user-attachments/assets/6cec7f4c-e838-4074-82e6-9c38f410cc70)
-![image](https://github.com/user-attachments/assets/5caa148a-3ccf-4b67-846f-c628070b9917)
-
 # **AI for Medicine Specialization**
 
 Welcome to the repository containing my assignments for the [AI for Medicine Specialization on Coursera](https://web.archive.org/web/20240814141815/https://www.coursera.org/specializations/ai-for-medicine) by DeepLearning.AI. This specialization is designed to help practitioners apply AI to medical diagnosis, prognosis, and treatment, providing practical experience with cutting-edge machine learning techniques tailored for modern healthcare challenges.
@@ -38,7 +34,6 @@ Welcome to the repository containing my assignments for the [AI for Medicine Spe
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" height="80">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="80">
     <img src="https://github.com/user-attachments/assets/6cec7f4c-e838-4074-82e6-9c38f410cc70" alt="SHAP" height="80">
-    <img src="https://github.com/user-attachments/assets/5caa148a-3ccf-4b67-846f-c628070b9917" alt="Grad-CAM" height="80">
 </div>
 
 
