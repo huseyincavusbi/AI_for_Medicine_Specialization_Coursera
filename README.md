@@ -37,15 +37,8 @@ Welcome to the repository containing my assignments for the [AI for Medicine Spe
     <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="80">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" height="80">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="80">
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-    <div>
-        <img src="https://github.com/user-attachments/assets/6cec7f4c-e838-4074-82e6-9c38f410cc70" alt="SHAP" height="80">
-    </div>
-    <div>
-        <img src="https://github.com/user-attachments/assets/5caa148a-3ccf-4b67-846f-c628070b9917" alt="Grad-CAM" height="80">
-    </div>
+    <img src="https://github.com/user-attachments/assets/6cec7f4c-e838-4074-82e6-9c38f410cc70" alt="SHAP" height="80">
+    <img src="https://github.com/user-attachments/assets/5caa148a-3ccf-4b67-846f-c628070b9917" alt="Grad-CAM" height="80">
 </div>
 
 
@@ -54,7 +47,5 @@ Welcome to the repository containing my assignments for the [AI for Medicine Spe
 This repository is licensed under the MIT License.
 
 ## Acknowledgments
-
-![Thank You](https://your-gif-link-here.com/robot_heart.gif)
 
 I would like to express my gratitude to the AI for Medicine Specialization instructors and all the contributors for creating this transformative and insightful program. This specialization has been instrumental in my journey to apply AI in the healthcare domain, and I am excited to continue exploring the intersection of AI and medicine.
