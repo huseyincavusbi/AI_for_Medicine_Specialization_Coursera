@@ -33,7 +33,7 @@ Welcome to the repository containing my assignments for the [AI for Medicine Spe
     <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="80">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" height="80">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="80">
-    <img src="![image](https://github.com/user-attachments/assets/5dc59069-214a-4dc0-a744-f731071663ff)" alt="SHAP" height="80">
+    <img src="https://github.com/user-attachments/assets/5dc59069-214a-4dc0-a744-f731071663ff" alt="SHAP" height="80">
 </div>
 
 
